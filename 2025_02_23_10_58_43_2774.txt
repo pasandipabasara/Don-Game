@@ -1,0 +1,24 @@
+-------------------------------
+  *** Game Session Details ***
+-------------------------------
+
+Player name : sakabuntha
+
+Life Score : 17
+
+
+Attempt Number: 1
+
+Presented Enemies: [66, 95, 47, 36, 45]
+
+Inputed Number: 2
+
+Status of the game: You Lost the game No such enemy and DON has fallen
+
+Life Score: 17
+
+
+
+
+End Game Statistics
+Game Over!! sakabuntha could not defeat the enemies and You lost the battle
